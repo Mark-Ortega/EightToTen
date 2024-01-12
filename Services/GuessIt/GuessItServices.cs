@@ -80,7 +80,7 @@ public class GuessItServices : IGuessItServices
             }
             else
             {
-                return "Please enter in an integer from 1-100.";
+                return "Please enter an integer from 1-100.";
             }
     }
 }
